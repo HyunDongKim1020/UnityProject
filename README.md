@@ -1,80 +1,17 @@
-## TheKingDom
-![image](https://user-images.githubusercontent.com/109125331/209521942-db5e980a-4dbb-4d55-9d5e-2c49a8728d8f.png)
-### TheKingDom은 5명이서 만든 팀프로젝트 입니다 ###
-### 개발기간 : 2022.09.23 ~ 2022.10.17
+<img src="https://capsule-render.vercel.app/api?type=waving&color=shark&height=200&weight=3000&section=header&text=TheKingDom&fontSize=90" />
 
-|이름 | 역할설명 |
-| --- | --- | 
-| | 일정 및 출석관리 |
-| | 기획서 관리 |
-| | 프로젝트 관리 |
-| | 전체 유료 에셋 제공 |
-| | 맵 디자인 - 왕성
-| | 스타트 씬 - UI제작,게임 시작, 해상도 설정, 종료 | 
-| | 시나리오 - UI 제작 및 다이얼로그 기능 | 
-|최현화[팀장] | 애니메이션 - 플레이어 이동,점프 NPC | 
-| | Player - Top Down 플레이어 이동, TPS Camera & Player 이동, 점프 | 
-| | 상점,인벤토리 - 구매,아이템 사용 | 
-| | 아이템 - 랜덤 위치 아이템 생성, 몬스터 사망시 아이템 드롭, 퀘스트 보상 아이템 | 
-| | 퀘스트 - UI제작,수락,거절,포기,성공,보상,퀘스트 최대 3개 |
-| | 상호작용 - NPC, 아이템 충돌 오브젝트 |
-| | 스타트 씬 포함 게임 내 모든 UI제작 | 
-| | 프로젝트 총괄 취합 및 코드 통합 |
-| | GitLab, SourceTree 사용법 가르침 협업툴로 협업 및 취합 진행 | 
+## 👨‍👨‍👦‍👦 Team소개
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109125331/209603604-456f7090-10ad-4673-87d8-112c691290fd.png"  width="700" />
+</p>
 
-|이름 | 역할설명 |
-| --- | --- | 
-| | 상점,인벤토리 - 구매, 아이템 사용 |
-| | 플레이어 상호작용 - UI, 던전 문 |
-| | Enemy - 슈팅 유도 공격 |
-|배석현[팀원] | Particle - Enemy, 던전효과 |
-| | 애니메이션 - 문 열고 닫기, Enemy 모션 |
-| | 최적화 - 메인카메라 프레임 조절 | 
-| | 던전 - 에너미 초기화 이벤트 | 
-| | GitLab, SourceTree 협업툴로 협업 진행 |
+## 🖥 Tool
 
+<img src="https://img.shields.io/badge/Visual Studio2019-5C2D91?style=flat&logo=Visual Studio&logoColor=Black"/> <img src="https://img.shields.io/badge/Unity2020.3.41f-F68315?style=flat&logo=Unity&logoColor=Black"/> <img src="https://img.shields.io/badge/Adobe Photoshop-143059?style=flat&logo=Adobe Photoshop&logoColor=White"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🕗 개발날짜
+ 2022.0923 ~ 2022.10.17
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109125331/209602872-8b77840b-6247-4678-a0e7-540c0956da23.png"  width="700" />
+</p>
