@@ -76,7 +76,18 @@
 
 <div align="center">
 
-  ## 🖥 조작법
+  ## ⌨ 조작법
 <img src="https://user-images.githubusercontent.com/109125331/209782952-33ea33a1-0036-4c2f-acd6-0432f6980692.png"  width="700" />
 </div>
 
+<div align="center">
+
+  ## 🤹‍♀️ 게임 아이콘 및 로고 디자인
+<img src="https://user-images.githubusercontent.com/109125331/209783935-0442465c-d410-4c5c-af0a-fa47280a28db.png"  width="700" />
+</div>
+
+<div align="center">
+
+  ## ✨ 혁신 기술
+<img src="https://user-images.githubusercontent.com/109125331/209784107-19f694c8-857a-4db6-8a3b-1ec5a37be1de.png"  width="700" />
+</div>
