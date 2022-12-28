@@ -12,6 +12,11 @@
 ## 🖥 Tool
 
 <img src="https://img.shields.io/badge/Visual Studio2019-5C2D91?style=flat&logo=Visual Studio&logoColor=Black"/> <img src="https://img.shields.io/badge/Unity2020.3.41f-F68315?style=flat&logo=Unity&logoColor=Black"/> <img src="https://img.shields.io/badge/Adobe Photoshop-143059?style=flat&logo=Adobe Photoshop&logoColor=White"/>
+  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109125331/209751054-290476d0-882a-4062-a359-df57682f6b1b.png"  width="700" />  
+</div>
+
 
 </div>
 
@@ -78,7 +83,7 @@
 
 </div>
 
-## 🖥1.프로젝트 개요
+## 🖥4.프로젝트 요약
 ##### -오픈필드를 적극적으로 활용하여 플레이어의 자우도 강화.
 ##### -에너미와 플레이어의 상호작용 - 데미지 처리
 ##### -FSM을 활용한 에너미 컨트롤
